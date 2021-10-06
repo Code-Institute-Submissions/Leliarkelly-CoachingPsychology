@@ -18,7 +18,7 @@ h1, h2 {font-family: 'Lato', sans-serif;
 
 }
 
-h5 {font-size: 1 em;
+h5 {font-size: 8px;
 font-style: italic;}
 
 
@@ -41,7 +41,7 @@ p{font-family: 'Lato', sans-serif;}
   color: black;
 }
 
-.nav-item {font-size: 1.1 em;
+.nav-item {font-size: 8px;
   font-family: 'Lato', sans-serif;
   color: black;
 }
@@ -83,7 +83,7 @@ margin-right: 50px}
 .services-section img{
     margin: auto;    
     display: block;
-    box-shadow: 0 px 3px 5px #444;
+    box-shadow: grey;
 }
 
 .text-services-section h4{
