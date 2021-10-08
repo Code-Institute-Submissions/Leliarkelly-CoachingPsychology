@@ -8,7 +8,7 @@ Interviews were conducted with Ali Reardon to identify her business goals, requi
 Ali is passionate about her business and services she can offer.   She wants to expand her business and believes that she needs to improve her online presence to attract more business for her and her pool of associates.
 
 Areas of concerns were identified with the current website that needs to be addressed:
--	The website design is poor and not very attractive or particularly appealing to new users.  It does not show Ali’s company in a particularly good light
+-	The website design was poor and not very attractive or particularly appealing to new users.  It does not show Ali’s company in a particularly good light
 -	The site is not optimised for use on different size of devices.
 -	The worry is that many visitor might not stay on the site once they arrived at it.
 The main agreed goal was to build a better, clearer and more attractive looking website which better sells the services that Alison's company has to offer.
@@ -58,8 +58,6 @@ The site has an embedded at the top of the services page.
 
 <h2>Testing</h2>
 Following the build of the website the following tests were completed
-TestID	Description	Results	Comments
-
 
 1	As a user I would like to stay within the same browser window when clicking internal links and be taken to separate window for external sites.  
 - Expected result: internal link keep within same brower window.  
@@ -76,24 +74,14 @@ Actual result:	Passed	<br>
     b)	Check all images and text are alignment correctly	Passed.  Comment: Reduce gap between images and text on Service page. Add to backlog.<br>
     c)	Check for spelling mistakes	Passed	<br>
     
-As a user I want to be able access and consume the Coaching Pyschology website on different sized devices
-    d)	Check on mobile device	Failed	  Comment: Agreed we would remove video from live site and resolve during next sprint. <br>
-    e)	Check on tablet device	Passed	<br>
-    f) Check on desktop device	Passed	<br>
+4  As a user I want to be able access and consume the Coaching Pyschology website on different sized devices
+    d) Check website on tablet device	Passed	<br>
+    f) Check website on desktop device	Passed	<br>
 
-8	Complete W3C HTML Validator Failed	<br>  Found 2 errors.  Fix: Corrected in latest release (8 October 2021)
-9	Complete W3C CSS Validator	Failed	<br>  Found 3 errors.  Fix: Corrected in latest release (8 October 2021)
-
-
-	
-Depoleyment write-up missing completely
+5	Complete W3C HTML Validator Failed	<br>  Found 2 errors.  Fix: Corrected in latest release (8 October 2021)
+6	Complete W3C CSS Validator	Failed	<br>  Found 3 errors.  Fix: Corrected in latest release (8 October 2021)
 
 
-<h2>Deployment</h2>
-
-<h2>Live Release</h2>
-
-Following a show and tell session the customer signed off the new website and agreed for its release.
 
 <h2>Sprint Retrospective</h2>
 
@@ -106,11 +94,11 @@ We deployed for testing and the majority of test passed except the video on the 
 
 Ali Reardon was very happy with the final website and feels positive about the further website developments we have planned in future sprints.
 
-Deployment Strategy 
+<h2>Deployment Strategy </h2>
 1) Made sure text is accurate and error free.
 2) Ensured  design is good.
 3) Tested the site for User Experience (UX).
-4) Signed off my owners
+4) Final show and tell and sign off my owners
 5) Created a backup of site. 
     a) Cloned respository
     b) Backed up and saved to local directory
