@@ -61,16 +61,35 @@ Following the build of the website the following tests were completed
 TestID	Description	Results	Comments
 
 
-1	Check all the links are working ok between different pages	Passed	<br>
-2	Check fonts	Passed.	Comment: Increase font size on Services page.  Add to backlog <br>
-3	Check all images and text are alignment correctly	Passed.  Comment: Reduce gap between images and text on Service page. Add to backlog.<br>
-4	Check for spelling mistakes	Passed	<br>
-5	Check on mobile device	Failed	  Comment: Agreed we would remove video from live site and resolve during next sprint. <br>
-6	Check on tablet device	Passed	<br>
-7	Check on desktop device	Passed	<br>
-8	Complete W3C HTML Validator Passed	<br>
-9	Complete W3C CSS Validator	Passed	<br>
+1	As a user I would like to stay within the same browser window when clicking internal links and be taken to separate window for external sites.  
+- Expected result: internal link keep within same brower window.  
+- external links go to separate window.
+- result :  FAILED.  Fixed in latest release so that all external links are set to a new window.  (8th Ovtober 2021) 
 
+2  As a user I want the each link to take me to the attended target so I find information I require easily 
+Expected result:  All links are working
+Actual result:	Passed	<br>
+
+
+3  As a user I want the site to be have a consistent UI. 
+    a)	Check fonts	Passed.	Comment: Increase font size on Services page.  Add to backlog <br>
+    b)	Check all images and text are alignment correctly	Passed.  Comment: Reduce gap between images and text on Service page. Add to backlog.<br>
+    c)	Check for spelling mistakes	Passed	<br>
+    
+As a user I want to be able access and consume the Coaching Pyschology website on different sized devices
+    d)	Check on mobile device	Failed	  Comment: Agreed we would remove video from live site and resolve during next sprint. <br>
+    e)	Check on tablet device	Passed	<br>
+    f) Check on desktop device	Passed	<br>
+
+8	Complete W3C HTML Validator Failed	<br>  Found 2 errors.  Fix: Corrected in latest release (8 October 2021)
+9	Complete W3C CSS Validator	Failed	<br>  Found 3 errors.  Fix: Corrected in latest release (8 October 2021)
+
+
+	
+Depoleyment write-up missing completely
+
+
+<h2>Deployment</h2>
 
 <h2>Live Release</h2>
 
@@ -88,3 +107,5 @@ We deployed for testing and the majority of test passed except the video on the 
 Ali Reardon was very happy with the final website and feels positive about the further website developments we have planned in future sprints.
 
 
+
+HTML design architecture is nicely kept in mind including placing elements /tags in correct positions and use of existing CSS style-sheets was befitting. However, HTML and CSS code was invalid.
