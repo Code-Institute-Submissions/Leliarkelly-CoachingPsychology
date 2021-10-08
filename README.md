@@ -106,6 +106,12 @@ We deployed for testing and the majority of test passed except the video on the 
 
 Ali Reardon was very happy with the final website and feels positive about the further website developments we have planned in future sprints.
 
-
-
-HTML design architecture is nicely kept in mind including placing elements /tags in correct positions and use of existing CSS style-sheets was befitting. However, HTML and CSS code was invalid.
+Deployment Strategy 
+1) Made sure text is accurate and error free.
+2) Ensured  design is good.
+3) Tested the site for User Experience (UX).
+4) Signed off my owners
+5) Created a backup of site. 
+    a) Cloned respository
+    b) Backed up and saved to local directory
+6) Published final website
