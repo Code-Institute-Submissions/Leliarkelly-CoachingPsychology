@@ -26,14 +26,14 @@ A user story is a great way of describing users’ needs.  By writing user stori
 
 <h3>Potential clients</h3>
 
-A1	As a website visitor I want to see what coaching services Coaching Psychology has to offer so I can decide whether to make contact. - Sprint 1
-A2	As a potential customer I want to get to know Ali as a coach and what experience she has so I can see if I could work with her. -Sprint 1
-A3	As a potential customer I want to be able easily to get in contact with the company and to get feedback quickly on my query. -Sprint 1
+A1	As a website visitor I want to see what coaching services Coaching Psychology has to offer so I can decide whether to make contact. - Sprint 1 - 
+A2	As a potential customer I want to get to know Ali as a coach and what experience she has so I can see if I could work with her. -Sprint 1 -
+A3	As a potential customer I want to be able easily to get in contact with the company and to get feedback quickly on my query. -Sprint 1 - 
 A4	As a customer I want to be assess all the website information on any device so it does not matter where I am and whether I using my mobile, tablet or desktop -Sprint 1
 A5	As a customer I want to get more information more about how Resilience training could help me so I can be better prepared to handle unexpected or stressful situation in the workplace -Sprint 2
 A6	As a customer I want to see what other customer experiences have been working with Coaching Psychology so I can have confidence in making a booking- Sprint 2
-A7	As a customer I want to know how much the company charges for their services so I know if I can afford them and so not to waste time -Backlog
-A8	As a customer I want to be able to see when a coach could be available to help me as I have an important presentation coming up and need access to coaching quickly- Backlog
+A7	As a customer I want to know how much the company charges for their services so I know if I can afford them and so not to waste time - Add to Backlog
+A8	As a customer I want to be able to see when a coach could be available to help me as I have an important presentation coming up and need access to coaching quickly- Add to Backlog
 
 <h3>Company owner</h3>
 
@@ -57,29 +57,41 @@ The website has a link to Ali Reardon’s personal profile
 The site has an embedded at the top of the services page.
 
 <h2>Testing</h2>
-Following the build of the website the following tests were completed
+Following the build of the website the following tests were completed.
 
-1	As a user I would like to stay within the same browser window when clicking internal links and be taken to separate window for external sites.  
-- Expected result: internal link keep within same brower window.  
-- external links go to separate window.
-- result :  FAILED.  Fixed in latest release so that all external links are set to a new window.  (8th Ovtober 2021) 
+A1	As a website visitor I want to see what coaching services Coaching Psychology has to offer so I can decide whether to make contact. 
+Test steps: Navigate through pages and consume content
+Test outcome: - passed
+A2	As a potential customer I want to get to know Ali as a coach and what experience she has so I can see if I could work with her. -
+Test steps:  Navigate to About Us page and download and view Ali CV.
+Test outcome -passed
+A3	As a potential customer I want to be able easily to get in contact with the company and to get feedback quickly on my query. 
+Test steps:  Navigate to Contact Us page and complete form.   
+CLick submit.  
+Receive message that enquiry has been made - 
+Test ouctome:  failed.  Added to backlog to create functionality to submit data as an email to owner.
 
-2  As a user I want the each link to take me to the attended target so I find information I require easily 
+A4	As a user I would like to stay within the same browser window when clicking internal links and be taken to separate window for external sites.  
+- Test steps:  check all external links (Linked in, facebook and Twitter)
+check all internal link that keep within same brower window.  - 
+- result :  passed.  
+
+A5  As a user I want the each link to take me to the attended target so I find information I require easily 
 Expected result:  All links are working
 Actual result:	Passed	<br>
 
 
-3  As a user I want the site to be have a consistent UI. 
-    a)	Check fonts	Passed.	Comment: Increase font size on Services page.  Add to backlog <br>
+A6  As a user I want the site to be have a consistent UI. 
+    a)	Check fonts	Passed.	
     b)	Check all images and text are alignment correctly	Passed.  Comment: Reduce gap between images and text on Service page. Add to backlog.<br>
     c)	Check for spelling mistakes	Passed	<br>
     
-4  As a user I want to be able access and consume the Coaching Pyschology website on different sized devices
+A7  As a user I want to be able access and consume the Coaching Pyschology website on different sized devices
     d) Check website on tablet device	Passed	<br>
     f) Check website on desktop device	Passed	<br>
 
-5	Complete W3C HTML Validator Failed	<br>  Found 2 errors.  Fix: Corrected in latest release (8 October 2021)
-6	Complete W3C CSS Validator	Failed	<br>  Found 3 errors.  Fix: Corrected in latest release (8 October 2021)
+A8	Complete W3C HTML Validator Failed	<br>  Found 2 errors.  Fixed: Corrected in latest release (8 October 2021)
+A9	Complete W3C CSS Validator	Failed	<br>  Found 3 errors.  Fixed: Corrected in latest release (8 October 2021)
 
 
 
