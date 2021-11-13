@@ -58,7 +58,7 @@ The site has an embedded at the top of the services page.
 
 <h2>Proposed Website design - WireFrames</h2>
 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/04a62d31-69b0-4297-aab0-23b2a120ae3c" id="yoyr9qu7qiSK"></iframe></div>
+<div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://lucid.app/documents/embeddedchart/04a62d31-69b0-4297-aab0-23b2a120ae3c" id="bGyr61Tjaz5W"></iframe></div>
 
 <h2>Testing</h2>
 Following the build of the website the following tests were completed.
