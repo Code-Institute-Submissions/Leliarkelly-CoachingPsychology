@@ -58,7 +58,32 @@ The site has an embedded at the top of the services page.
 
 <h2>Proposed Website design - WireFrames</h2>
 
-<div style="width: 960px; height: 720px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:720px" src="https://lucid.app/documents/embeddedchart/04a62d31-69b0-4297-aab0-23b2a120ae3c" id="bGyr61Tjaz5W"></iframe></div>
+<h3>Home Page </H3>
+
+<div class>
+            <img src="images/Homewireframe.png" class="img-fluid" alt="home page wireframe" class="img-rounded" alt="home page wireframe">
+</div>
+
+<h3>About Me </H3>
+
+<div class>
+            <img src="images/Aboutuswireframe.png" class="img-fluid" alt="About us wireframe" class="img-rounded" alt="home page wireframe">
+</div>
+
+<h3>Services </H3>
+
+<div class>
+            <img src="images/Serviceswireframe.png" class="img-fluid" alt="Services wireframe" class="img-rounded" alt="home page wireframe">
+</div>
+
+<h3>Get in Touch </H3>
+
+<div class>
+            <img src="images/Getintouchwireframe.png" class="img-fluid" alt="get in touch wireframe" class="img-rounded" alt="home page wireframe">
+</div>
+
+
+<img></img>
 
 <h2>Testing</h2>
 Following the build of the website the following tests were completed.
