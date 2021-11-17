@@ -30,7 +30,7 @@ p{font-family: 'Lato', sans-serif;}
 
 .navbar-brand span{
   font-family: 'Lato', sans-serif;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 
@@ -53,8 +53,26 @@ p{font-family: 'Lato', sans-serif;}
     background-size: cover;
     width: 100%;
     min-height: 80vh;}
-    
+ 
 
+    body{
+        background-color: #fff;
+        font-family: 'Roboto', sans-serif;
+        display: flex;
+        align-items:center;
+        justify-content: center;
+        min-height: 100 vh;
+    }
+    
+    .container{
+        background-color: #faf3f3;
+        border-radius: 5px;
+        box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+        width: 400px;
+    }    
+
+form{ padding: 50px 50px;
+    }    
 /* Welcome message on home page */
 
 .home-spacing{
@@ -69,6 +87,7 @@ p{font-family: 'Lato', sans-serif;}
 #footer-logos {display: inline;
 float: right;
 margin-right: 50px}
+
 
 .footer-text-style{font-size: 0.8em;}
 
@@ -92,10 +111,14 @@ margin-right: 50px}
     font-size: 0.8em; 
     text-align: left;}
 
+label {
+    font-size: 1.5em;}
 
-/* Contact us page styling*/
 
-.label{font-weight: 700;}
-.contact-style-p {text-align: left;}
+    /* Contact us page styling
+
+.label{font-weight: 700;
+font-size: 1.5em;}
+.contact-style-p {text-align: left;} */
 
 
