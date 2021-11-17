@@ -14,9 +14,12 @@ body{
     font-size: 1rem;
 }
 
-h1, h2 {font-family: 'Lato', sans-serif;
+h1 {font-family: 'Lato', sans-serif;
 
 }
+
+h2 {margin-top: 20%;}
+
 
 h5 {font-size: 8px;
 font-style: italic;}
