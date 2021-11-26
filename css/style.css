@@ -70,8 +70,11 @@ form{
     }    
 /* Welcome message on home page */
 
-.home-spacing{
-    margin: 120px;
+p.home-spacing{
+    align-content: right;
+    margin-top: 100px;
+    margin-left: 140px;
+    margin-right:   60px;
     font-size: 1.5em;
     font-weight: 700;
     color: #fff;
