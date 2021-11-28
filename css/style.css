@@ -19,11 +19,11 @@ h1, h2 {font-family: 'Lato', sans-serif;
 
 }
 
-h2 {margin-top: 20%;}
+/* h2 {margin-top: 20%;} */
 
 
-h5 {font-size: 8px;
-font-style: italic;}
+/* h5 {font-size: 8px;
+font-style: italic;} */
 
 
 p{font-family: 'Lato', sans-serif;}
@@ -94,27 +94,27 @@ margin-right: 50px}
     text-decoration: none;   
 }
 
-/* Services page styling */
+/* Services page styling *
 
 .services-section img{
+    background-color: blue;
     margin: auto;    
     display: block;
-    }
+    } */
 
-.text-services-section h4{
+/* .text-services-section h4{
     font-size: 1em;}
 
 .text-services-section p{
-    
     text-align: left;}
 
 label {
-    font-size: 1.5em;}
+    font-size: 1.5em;} */
 
-.about-me img{
+/* .about-me img{
 
     margin-top: 5px;
     padding: 0%;
-}
+} */
 
 
