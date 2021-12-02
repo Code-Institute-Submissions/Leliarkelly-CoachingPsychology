@@ -5,7 +5,7 @@
 Coaching Psychology is a successful executive coaching business run by Ali Reardon.  The business has been running for 5 years and Ali has over 2,500 hours of coaching experience across a broad range of sectors.   The company provides 1:1, group and resilience coaching programme. The company has access to a pool of highly qualified, talented and experienced coaches across the UK.  The company currently has a website that can be found at www.coaching-psyhology.co.uk. 
 Interviews were conducted with Ali Reardon to identify her business goals, requirements and ideas for a new improved website. 
 
-Ali is passionate about her business and services she can offer.   She wants to expand her business and believes that she needs to improve her online presence to attract more business for her and her pool of associates.
+Ali is passionate about her business and services she can offer.   She wants to expand her business and believes that she needs to improve her online preseDnce to attract more business for her and her pool of associates.
 
 Areas of concerns were identified with the current website that needs to be addressed:
 -	The website design was poor and not very attractive or particularly appealing to new users.  It does not show Ali’s company in a particularly good light
